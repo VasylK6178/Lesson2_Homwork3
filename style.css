@@ -1,0 +1,15 @@
+.users-box {
+    display: flex;
+    flex-wrap: wrap;
+
+
+
+}
+.user-block {
+    margin: 0 20px;
+    padding: 20px 200px;
+    width: 480px;
+}
+.address-block {
+    background: linen;
+}
